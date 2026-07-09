@@ -1,0 +1,6 @@
+{
+  "name": "SupplyGuard AI",
+  "description": "An enterprise AI supply chain risk intelligence platform for real-time visibility into global vulnerabilities, supplier profiles, and secure data orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
